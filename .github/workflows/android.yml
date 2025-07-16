@@ -1,4 +1,4 @@
-name: Build Debug APK
+nano .github/workflows/android.ymlname: Build Debug APK
 
 
 
